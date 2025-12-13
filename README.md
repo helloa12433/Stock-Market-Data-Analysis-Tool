@@ -1,7 +1,7 @@
 # 📊 StockQueryX — Stock Market Range Query Analyzer (Mo's Algorithm)
 
 StockQueryX ek high-performance **range-query analytics engine** hai jo stock price data par complex queries ko ultra-fast process karta hai using **Mo’s Algorithm**.  
-Isme backend ki bilkul zarurat nahi hoti — sab kuch optimized frontend computation se hota hai.
+
 
 ---
 
